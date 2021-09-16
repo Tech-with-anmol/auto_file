@@ -5,6 +5,10 @@ It is a python library which generates all required file and folder 📂 require
 # 🗒 Note 
 It will be released on 10 September 
 # usage 
-Everything will be updated on 10 🔟 September 
+```
+import auto_file as af
+   af.mklib("test")
+   ```
+# for more visit  : https://pypi.org/project/auto_file
 
 ### stay tuned for more information 
