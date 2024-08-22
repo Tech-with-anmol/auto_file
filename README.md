@@ -3,7 +3,7 @@ It is a python library which generates all required file and folder 📂 require
 # installation 
 ```pip install auto_file```
 # 🗒 Note 
-It will be released on 10 September 
+I am no longer working on this, there are many new tools out there, but you can still use this :)
 # usage 
 ```
 import auto_file as af
